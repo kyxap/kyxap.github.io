@@ -35,9 +35,9 @@ algolia:
 
 # SEO Related
 google_site_verification : "wt-IQECCnn_CxT6dH5FSFsP2-ZjzK1dIqALSWjhaf1g"
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+bing_site_verification   : "357DFB795090D23616D44ED8AA1B2F4A"
+yandex_site_verification : "57a58e560a7d30dd"
+naver_site_verification  : "a6c009c02db4767b18ed3f8097936d59df63dec3"
 
 # Social Sharing
 twitter:
