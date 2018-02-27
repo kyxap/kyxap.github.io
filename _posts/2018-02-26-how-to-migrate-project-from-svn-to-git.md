@@ -61,7 +61,9 @@ Below I will use bash only commands, so use **linux**, **mac** or **git-bash**, 
 
 5. Go up and create empty folder to work in
     ```sh
-    $ cd .. && mkdir git-svn-repo && cd git-svn-repo
+    $ cd ..
+    mkdir git-svn-repo
+    cd git-svn-repo
     ```
     
 6. Initialize empty git svn repo without metadata
