@@ -130,17 +130,17 @@ Below I will use bash only commands, so use **linux**, **mac** or **git-bash**, 
 
 **652** commits migrated, yay!
 
-![Commits Nums]({{ site.url }}{{ site.baseurl }}/assets/images/svn-git-commits-nums.PNG)
+![Commits Nums]({{ site.url }}{{ site.baseurl }}/assets/images/git-svn/svn-git-commits-nums.PNG)
 {: .full}
 
 History commits linked to my GitHub User:
 
-![Commits History]({{ site.url }}{{ site.baseurl }}/assets/images/svn-git-commits-history.PNG)
+![Commits History]({{ site.url }}{{ site.baseurl }}/assets/images/git-svn/svn-git-commits-history.PNG)
 {: .full}
 
 Contributors tab shows that all your work done succesfully:
 
-![Contributors]({{ site.url }}{{ site.baseurl }}/assets/images/svn-git-contr.PNG)
+![Contributors]({{ site.url }}{{ site.baseurl }}/assets/images/git-svn/svn-git-contr.PNG)
 {: .full}
     
 ## Q&A
