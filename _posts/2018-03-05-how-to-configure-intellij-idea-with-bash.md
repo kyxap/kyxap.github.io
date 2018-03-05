@@ -9,6 +9,7 @@ tags:
   - bash
   - idea
   - windows
+  - terminal
 toc: true
 ---
 Im using Intellij Idea on my MacBook at home and Win laptop at work. Must have flow for me its work with git through console. 
@@ -49,7 +50,7 @@ And offcourse you shouhd have Intellij Idea installed.
     And you will get:
     ![tools terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/tools-shell-path.PNG)
     
-    **Note:**: Don't forget the quotes around the command.
+    **Note:** Don't forget the quotes around the command.
     
 4. Open\Reopen terminal
     To open terminal use by using **Alt + F12** hot keys or use UI: 
@@ -58,11 +59,11 @@ And offcourse you shouhd have Intellij Idea installed.
     
     And now we can run **bash** and all terminal looks like:
     
-    ![updated terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/updated terminal.PNG)
+    ![updated terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/updated-terminal.PNG)
     
-    *some information private information hidded*
+    *some private information hidded*
     
-    **Note:** about how to customize your terminal I will speed in next posts, so stay tune!
+    **Note:** about how to customize your terminal I will speak in next posts, so stay tune!
 
 ### Questions?
 
