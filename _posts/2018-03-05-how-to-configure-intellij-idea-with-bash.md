@@ -27,6 +27,7 @@ And offcourse you shouhd have Intellij Idea installed.
     $ File > Settings > Tools > Terminal
     ```
     You shoud get:
+    
     ![tools terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/tools-terminal.PNG)
 
 2. Go to created directory
