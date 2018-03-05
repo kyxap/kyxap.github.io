@@ -26,6 +26,7 @@ And offcourse you shouhd have Intellij Idea installed.
     ```sh
     $ File > Settings > Tools > Terminal
     ```
+    You shoud get:
     ![tools terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/tools-terminal.PNG)
 
 2. Go to created directory
@@ -36,16 +37,19 @@ And offcourse you shouhd have Intellij Idea installed.
    Here we need to endit only **Shell path** and Apply changes.
   
    For Win 64 bit:
+    ```sh
    "C:\Program Files\Git\bin\sh.exe" -login -i
-
+    ```
+    ```sh
     For or Win 32 bit:
     "C:\Program Files (x86)\Git\bin\sh.exe" -login -i
-    
+    ```
+    And you will get:
     ![tools terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/tools-shell-path.PNG)
     
     **Note:**: Don't forget the quotes around the command.
     
-4. Open terminal
+4. Open\Reopen terminal
     To open terminal use: **Alt + F12** hot key or: 
     
     ![open terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/open-terminal.gif)
@@ -57,7 +61,6 @@ And offcourse you shouhd have Intellij Idea installed.
     *some information private information hidded*
     
     **Note:** about how to customize your terminal I will speed in next posts, so stay tune!
-
 
 ### Questions?
 
