@@ -40,8 +40,9 @@ And offcourse you shouhd have Intellij Idea installed.
     ```sh
    "C:\Program Files\Git\bin\sh.exe" -login -i
     ```
-    ```sh
+    
     For or Win 32 bit:
+    ```sh
     "C:\Program Files (x86)\Git\bin\sh.exe" -login -i
     ```
     And you will get:
