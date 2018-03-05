@@ -51,7 +51,7 @@ And offcourse you shouhd have Intellij Idea installed.
     **Note:**: Don't forget the quotes around the command.
     
 4. Open\Reopen terminal
-    To open terminal use: **Alt + F12** hot key or: 
+    To open terminal use by using **Alt + F12** hot keys or use UI: 
     
     ![open terminal]({{ site.url }}{{ site.baseurl }}/assets/images/idea-bash/open-terminal.gif)
     
