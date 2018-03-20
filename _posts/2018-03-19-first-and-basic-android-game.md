@@ -21,11 +21,13 @@ Java is in use in Android based app and games.
 I spend couple hours in morning and couple hours in evening. What I have now:
 
 **RockPaperScissors**
-![Game-Demo](https://user-images.githubusercontent.com/3080529/37635719-95bc7c20-2bba-11e8-9cea-e0bb26d9a415.gif)
+<img src="https://user-images.githubusercontent.com/3080529/37635719-95bc7c20-2bba-11e8-9cea-e0bb26d9a415.gif" width="300">
 
 Yeah its basic and light but I'm planning to extend the game with game framework and add sounds and images.
 And also maybe add AI to the computer game choices. So will see :smile:
+
 If you want to check the source of maybe create PR please :smile:
+
 [RockPaperScissors sources](https://github.com/kyxap/RockPaperScissors)
 
 ### Questions?
