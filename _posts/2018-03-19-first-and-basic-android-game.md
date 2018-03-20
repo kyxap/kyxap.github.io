@@ -5,7 +5,7 @@ comments: true
 categories: Check this out
 tags:
   - games
-  - developming
+  - developing
   - programming
   - android
 toc: true
@@ -18,9 +18,8 @@ I tried React Native - cool, fast but do not have expirience with Natibe I decid
 Java is in use in Android based app and games. 
 
 ### What I have done
-I spend couple hours in morning and couple hours in evening. What I have now:
+I spend couple hours in morning and couple hours in evening. What I have now, called it **RockPaperScissors**:
 
-**RockPaperScissors**
 <img src="https://user-images.githubusercontent.com/3080529/37635719-95bc7c20-2bba-11e8-9cea-e0bb26d9a415.gif" width="300">
 
 Yeah its basic and light but I'm planning to extend the game with game framework and add sounds and images.
