@@ -19,8 +19,9 @@ Java is in use in Android based app and games.
 
 ### What I have done
 I spend couple hours in morning and couple hours in evening. What I have now:
+
 **RockPaperScissors**
-![Game-Demo](https://user-images.githubusercontent.com/3080529/37635719-95bc7c20-2bba-11e8-9cea-e0bb26d9a415.gif) {: .full}
+![Game-Demo](https://user-images.githubusercontent.com/3080529/37635719-95bc7c20-2bba-11e8-9cea-e0bb26d9a415.gif)
 
 Yeah its basic and light but I'm planning to extend the game with game framework and add sounds and images.
 And also maybe add AI to the computer game choices. So will see :smile:
