@@ -1,6 +1,5 @@
 ---
 title:  "How to configure Intellij Idea with bash/sh"
-categories: git svn how-to
 comments: true
 categories:
   - How to
